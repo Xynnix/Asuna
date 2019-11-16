@@ -7,3 +7,5 @@
  
  # NOTE
  You may not submit this bot as your own on top.gg your bot will not be listed on the site. if you decide to use this code you must give credit to the creator.
+ 
+ Asuna is running on the latest version of Discord.js
