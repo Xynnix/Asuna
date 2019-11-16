@@ -1,2 +1,2 @@
 # Asuna
-Asuna is a basic bot with music and such.
+Asuna is a basic bot with music and such
